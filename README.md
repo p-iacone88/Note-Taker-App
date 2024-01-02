@@ -7,27 +7,15 @@ This application uses Express.js for the backend and saves and retrieves note da
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-- [Walkthrough Video](#walkthroug-video)
-- [Sample SVGs](#sample-svgs)
-- [Testing](#testing)
-- [Testing Video](#testing-video)
+- [Screenshots](#screenshots)
 - [Credits](#credits)
-
-## Installation
-
-1. Clone this repository
-
-```bash
-git clone https://github.com/p-iacone88/Note-Taker-App
-```
 
 ## Usage
 
 1. Accessing the Note Taker:
 
-Open your web browser and visit the following URL: [URL]
+Open your web browser and visit the following URL: [https://note-taker-app-n6jd.onrender.com/]
 
 2. Viewing Existing Notes:
 
@@ -54,6 +42,14 @@ Additional Notes:
 Your notes are automatically saved as you create and edit them.
 You can create as many notes as you need.
 The application is designed to be simple and intuitive to use.
+
+## Screenshots
+
+![Screenshot 2024-01-02 at 3 35 24 PM](https://github.com/p-iacone88/Note-Taker-App/assets/50248763/7e821ba3-c771-44e7-838b-fc648c6373ea)
+
+![Screenshot 2024-01-02 at 3 35 34 PM](https://github.com/p-iacone88/Note-Taker-App/assets/50248763/345ad1e3-c2e4-46c2-9577-0ed2fe5c47ad)
+
+![Screenshot 2024-01-02 at 3 37 45 PM](https://github.com/p-iacone88/Note-Taker-App/assets/50248763/1d9370bd-074b-4a11-baee-65a538fa8c28)
 
 ## Credits
 
